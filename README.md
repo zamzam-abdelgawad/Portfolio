@@ -6,4 +6,4 @@ This project is a Simple Portfolio designe with HTML, CSS,Javascript .
 - HTML 5
 - CSS 
 - Fontawesome Icons 
-- Javascript 
+
